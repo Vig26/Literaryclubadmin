@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiteraryClubAdmin</string>
+    <string name="title_activity_bottom">Bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Events</string>
+    <string name="title_notifications">Gallery</string>
+</resources>
